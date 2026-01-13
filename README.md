@@ -33,6 +33,6 @@ Property Type Pricing
 · Greenwich emerged as the cheapest area 
 
 # Limitations
-This analysis doesn't account for transport links
+· This analysis doesn't account for transport links
 
-The dataset is 5 years old and may not reflect the current market
+· The dataset is 5 years old and may not reflect the current market
