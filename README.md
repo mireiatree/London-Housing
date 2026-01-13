@@ -25,6 +25,7 @@ Best Value Areas
 · Areas like Barwell Lane, Buckhurst Hill, and Walton-on-Thames offer the best value for properties under £600k, making them attractive options for budget-conscious buyers.
 
 Property Type Pricing
+
 · Penthouse is the most expensive property type, followed by standard house
 
 · Bungalows and duplexes have very similar valuations
